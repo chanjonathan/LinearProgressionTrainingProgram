@@ -1,0 +1,68 @@
+{
+    "exercises": [
+        {
+            "sets": [
+                {
+                    "number": 1,
+                    "reps": [
+                        {
+                            "number": 1,
+                            "status": 1
+                        },
+                        {
+                            "number": 2,
+                            "status": -1
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "reps": [
+                        {
+                            "number": 1,
+                            "status": 1
+                        },
+                        {
+                            "number": 2,
+                            "status": 1
+                        }
+                    ]
+                }
+            ],
+            "exerciseType": "s",
+            "description": "Competition squat",
+            "weight": 185
+        },
+        {
+            "sets": [{
+                "number": 1,
+                "reps": [{
+                    "number": 1,
+                    "status": -1
+                }]
+            }],
+            "exerciseType": "b",
+            "description": "Competition bench press",
+            "weight": 135
+        },
+        {
+            "sets": [{
+                "number": 1,
+                "reps": [{
+                    "number": 1,
+                    "status": -1
+                }]
+            }],
+            "exerciseType": "d",
+            "description": "Competition deadlift",
+            "weight": 225
+        },
+		{
+            "sets": [],
+            "exerciseType": "",
+            "description": "Cable row",
+            "weight": 45
+        }
+    ],
+    "label": "Workout A"
+}
