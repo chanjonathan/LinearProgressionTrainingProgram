@@ -30,7 +30,7 @@ items that also adjusts to completion or failure of the last set of items.
 completed
 - As a user I want to be able to save my current progress and exit the program
 
-## Phase 4: Task 3
+## Future Refactoring
 Classes for the three major lifts were added with the expectation that they would need exhibit different implementations
 while all the same methods were called on them. These never quite got used to their
 potentials. The only difference between exercise classes is that they each increment weight by a different
